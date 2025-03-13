@@ -62,10 +62,7 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 ```
-![Uploading Screenshot 2025-03-13 095147.png…]()
-
-## Output:
-![linear regression using gradient descent](sam.png)
+![Screenshot 2025-03-13 095147](https://github.com/user-attachments/assets/94d96e5a-09b0-4b8f-a03c-08be8ab47104)
 
 
 ## Result:
